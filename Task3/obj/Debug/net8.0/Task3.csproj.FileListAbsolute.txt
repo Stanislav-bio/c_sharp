@@ -1,0 +1,15 @@
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/bin/Debug/net8.0/Task3
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/bin/Debug/net8.0/Task3.deps.json
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/bin/Debug/net8.0/Task3.runtimeconfig.json
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/bin/Debug/net8.0/Task3.dll
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/bin/Debug/net8.0/Task3.pdb
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/obj/Debug/net8.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/obj/Debug/net8.0/Task3.AssemblyInfoInputs.cache
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/obj/Debug/net8.0/Task3.AssemblyInfo.cs
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/obj/Debug/net8.0/Task3.csproj.CoreCompileInputs.cache
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/obj/Debug/net8.0/Task3.sourcelink.json
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/obj/Debug/net8.0/Task3.dll
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/obj/Debug/net8.0/refint/Task3.dll
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/obj/Debug/net8.0/Task3.pdb
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/obj/Debug/net8.0/Task3.genruntimeconfig.cache
+/home/stan/Documents/Study/c# lessons/lesson1/Task3/obj/Debug/net8.0/ref/Task3.dll
